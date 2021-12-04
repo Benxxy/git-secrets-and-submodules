@@ -1,0 +1,4 @@
+[submodule "submodule-with-action"]
+	path = submodule-with-action
+	url = git@github.com:Benxxy/submodule-with-action.git
+	branch = main
